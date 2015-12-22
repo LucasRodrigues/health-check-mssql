@@ -11,7 +11,7 @@ $ npm install health-check-mssql
 
 ## Usage
 
-```
+```js
 var healthCheckMssql = require('health-check-mssql');
 
 healthCheckMssql.do([
